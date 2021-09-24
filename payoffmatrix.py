@@ -4,7 +4,6 @@ This scripts contains the PayoffMatrix
 from typing import Optional
 import numpy as np
 
-
 class PayoffMatrix:
     """
     A class of 2 by 2 payoff matrices.
